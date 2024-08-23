@@ -1,0 +1,6 @@
+@Stratsys_HostAddress = http://localhost:5033
+
+GET {{Stratsys_HostAddress}}/getskilength/
+Accept: application/json
+
+###
